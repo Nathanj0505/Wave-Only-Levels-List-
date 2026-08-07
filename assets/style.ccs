@@ -1,0 +1,13 @@
+body {
+  background: #0b0b10;
+  color: #f5f5f5;
+  font-family: Arial, sans-serif;
+}
+
+a {
+  color: #4fd1ff;
+}
+
+h1, h2, h3 {
+  color: #ffd54f;
+}
