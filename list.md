@@ -6,8 +6,8 @@ title: Main List
 # Main List
 
 {% assign challenges = site.data.list %}
-{% for c in challenges %}
-## #{{ c.rank }} — {{ c.name }}
+{% for l in levels %}
+## #{{ l.rank }} — {{ l.name }}
 
 - **ID:** {{ c.id }}
 - **Creator:** {{ c.creator }}
