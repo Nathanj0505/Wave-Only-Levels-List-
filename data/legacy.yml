@@ -1,0 +1,7 @@
+- name: Old Challenge
+  id: 567890
+  creator: LegacyCreator
+  verifier: OldVerifier
+  video: "https://youtu.be/example5"
+  reason: "Moved to legacy after update."
+  rank: 151
