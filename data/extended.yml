@@ -1,0 +1,17 @@
+- name: Challenge X
+  id: 345678
+  creator: CreatorGuy
+  verifier: Player3
+  video: "https://youtu.be/example3"
+  fps: 240
+  rank: 76
+  notes: "Extended list entry."
+
+- name: Challenge Y
+  id: 456789
+  creator: AnotherCreator
+  verifier: Player4
+  video: "https://youtu.be/example4"
+  fps: 60
+  rank: 77
+  notes: "Extended list entry."
