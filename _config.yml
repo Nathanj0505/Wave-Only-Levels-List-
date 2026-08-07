@@ -1,0 +1,12 @@
+title: "Wave Only Level's List"
+description: "A Geometry Dash list focused on wave only levels."
+theme: minima
+
+nav:
+  - Home: index.md
+  - Rules: rules.md
+  - Main List: list.md
+  - Extended List: extended.md
+  - Legacy: legacy.md
+
+data_dir: data
