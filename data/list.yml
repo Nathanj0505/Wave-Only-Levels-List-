@@ -1,0 +1,7 @@
+- name: Example Challenge
+  id: 123456
+  creator: GhostXD
+  verifier: GhostXD
+  video: "https://youtu.be/example"
+  fps: 240
+  rank: 1
